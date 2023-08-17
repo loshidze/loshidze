@@ -6,8 +6,7 @@
 - 📝 Хочу писать чистый читабельный код
 
 ### Мой стек
-React logo CSS3 logo HTML5 logo JavaScript logo   TypeScript logo Redux logo   Visual Studio Code logo   Figma logo
-Express.js logo MongoDB logo MySQL logo Node.js logo
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 <!--
 **loshidze/loshidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
