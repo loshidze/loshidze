@@ -7,6 +7,7 @@
 
 ### Мой стек
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!--
 **loshidze/loshidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
